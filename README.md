@@ -8,8 +8,7 @@
 
 </p>
 
-
-### ✨ My interests include:
+#### ✨ My interests include:
 - Networking
 - Sysadmin & IT
 - Powershell and BAT scripts
@@ -22,7 +21,7 @@
 
 <hr width=50>
 
-### ⚡ Donate
+#### ⚡ Donate
 
 <a href="https://www.bitcoinqrcodemaker.com/pay/?type=2&style=bitcoin&address=1G9W9zBAyDmN8wE3LR5JjVbU6LnXBHLKF8">
     <img alt="Bitcoin" src="https://img.shields.io/badge/Donate-BTC%20%E2%86%92-gray.svg?colorA=orange&color=E67132&style=for-the-badge"/>
