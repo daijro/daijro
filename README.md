@@ -10,14 +10,19 @@
 
 #### ✨ My interests include:
 - Networking
-- Sysadmin & IT
-- Powershell and BAT scripts
-- Developing high volume web crawlers
-- Developing automation tools
-- Reverse engineering internal server APIs
+- High volume web crawlers
+- Automation tools
+- Reverse engineering server endpoints
 - Ethical hacking & reconnaissance
+- Sysadmin & IT
 - Crypto mining
 - Linux
+
+<hr width=50>
+
+#### 💻 Skills
+
+<img src="https://skillicons.dev/icons?i=python,qt,powershell,bash,java,sqlite,linux,raspberrypi,js,css,html,spring,rabbitmq,flask,regex,aws,git,github,gitlab,docker,postman,vim,neovim,idea,vscode,gamemakerstudio,figma,ai" />
 
 <hr width=50>
 
