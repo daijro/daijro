@@ -1,6 +1,6 @@
 <p align="center">
     <h3 align="center">Hi there 👋</h3>
-    <p align="center">I'm daijro, an 18 year old Python programmer with an interest in Computer Science.</p>
+    <p align="center">I'm daijro, an 18 year old R&D software engineer with an interest in Computer Science.</p>
     <p align="center">
         <img alt="Stars" src="https://img.shields.io/github/stars/daijro?color=4caf50&style=for-the-badge">
         <img alt="Downloads" src="https://img.shields.io/github/followers/daijro?color=0f80c1&style=for-the-badge">
@@ -9,20 +9,21 @@
 </p>
 
 #### ✨ My interests include:
-- Networking
+- Networking/web security research
+- AWS Cloud development
+- DevOps, automation tools, sysadmin & IT
 - High volume web crawlers
-- Automation tools
-- Reverse engineering server endpoints
+- Reverse engineering
 - Ethical hacking & reconnaissance
-- Sysadmin & IT
 - Crypto mining
 - Linux
 
 <hr width=50>
 
 #### 💻 Skills
+---
 
-<img src="https://skillicons.dev/icons?i=python,qt,powershell,bash,go,java,sqlite,linux,raspberrypi,js,css,html,spring,rabbitmq,flask,regex,aws,git,github,gitlab,docker,postman,vim,neovim,idea,vscode,gamemakerstudio,figma,ai" />
+<img src="https://skillicons.dev/icons?i=python,qt,powershell,bash,go,c,cpp,java,sqlite,opencv,js,css,html,ai,figma,aws,terraform,docker,git,github,gitlab,cloudflare,flask,spring,rabbitmq,postman,vim,neovim,idea,vscode,arch,debian,kali,linux,raspberrypi" />
 
 <hr width=50>
 
