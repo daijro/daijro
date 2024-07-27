@@ -18,12 +18,16 @@
 - Crypto mining
 - Linux
 
-<hr width=50>
-
-#### 💻 Skills
 ---
 
-<img src="https://skillicons.dev/icons?i=python,qt,powershell,bash,go,c,cpp,java,sqlite,opencv,js,css,html,ai,figma,aws,terraform,docker,git,github,gitlab,cloudflare,flask,spring,rabbitmq,postman,vim,neovim,idea,vscode,arch,debian,kali,linux,raspberrypi" />
+#### 💻 Skills
+
+<img src="https://skillicons.dev/icons?i=python,qt,powershell,bash,go,c,cpp,java,sqlite,opencv,js,css,html,ai,figma,aws,terraform,docker,git,github,gitlab,heroku,cloudflare,flask,spring,rabbitmq,postman" />
+
+
+#### 🔨 Workspace
+
+<img src="https://skillicons.dev/icons?i=arch,debian,ubuntu,kali,linux,raspberrypi,vim,neovim,idea,vscode,visualstudio" />
 
 <hr width=50>
 
