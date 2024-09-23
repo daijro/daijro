@@ -1,6 +1,6 @@
 <p align="center">
     <h3 align="center">Hi there 👋</h3>
-    <p align="center">I'm daijro, an 18 year old R&D software engineer with an interest in Computer Science.</p>
+    <p align="center">I'm daijro, an 18 year old R&D software engineer with an interest in RPA framework development.</p>
     <p align="center">
         <img alt="Stars" src="https://img.shields.io/github/stars/daijro?color=4caf50&style=for-the-badge">
         <img alt="Downloads" src="https://img.shields.io/github/followers/daijro?color=0f80c1&style=for-the-badge">
