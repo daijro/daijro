@@ -8,6 +8,15 @@
 
 </p>
 
+
+# 🚨 Please read
+
+**Hello! In March 2025, I had a medical emergency and have been hospitalized since. As a result, I haven’t been able to maintain Camoufox and my other projects, nor have I been able to respond to emails or tickets. My situation has continued to escalate, and I will be unable to continue my work for a while.**
+
+**I was previously updating my libraries daily, and I plan to return to that as soon as I'm able. I hope to be back and caught up by the end of 2025. Thank you for your patience and understanding. ❤️**
+
+---
+
 #### ✨ My hobbies include:
 - Web automation R&D
 - Sysadmin & IT
@@ -40,7 +49,7 @@
 </sub>
 
 <sub>
-I have a medical condition that makes me sick very frequently. If I miss your email, please understand that this isn't intentional.
+I won't be able to respond to emails for some time.
 </sub>
 
 <hr width=50>
