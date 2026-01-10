@@ -1,6 +1,6 @@
 <p align="center">
     <h3 align="center">Hi there 👋</h3>
-    <p align="center">I'm daijro, a 19 year old R&D software engineer with an interest in RPA framework development.</p>
+    <p align="center">I'm daijro, a 19 year old R&D software engineer with an interest in web security and privacy.</p>
     <p align="center">
         <img alt="Stars" src="https://img.shields.io/github/stars/daijro?color=4caf50&style=for-the-badge">
         <img alt="Downloads" src="https://img.shields.io/github/followers/daijro?color=0f80c1&style=for-the-badge">
@@ -8,34 +8,32 @@
 
 </p>
 
+---
 
-# 🚨 Please read
+> [!warning]
+> **Hello! I had a health situation last year and was not able to continue my work for a while. As a result, my projects are pretty outdated and may not work as expected. Updates are planned, but activity will be slow. Thank you for all the support. ❤️**
 
-**Hello! In March 2025, I had a medical emergency and have been hospitalized since. As a result, I haven’t been able to maintain Camoufox and my other projects, nor have I been able to respond to emails or tickets. My situation has continued to escalate, and I will be unable to continue my work for a while.**
+## Camoufox maintenance status
 
-**I was previously updating my libraries daily, and I plan to return to that as soon as I'm able. I hope to be back and caught up by the end of 2025. Thank you for your patience and understanding. ❤️**
+**I've decided to step down as primary maintainer of Camoufox after some time away.**
+
+The project is in great hands with the team at [Clover Labs](https://cloverlabs.ai), and you can expect new updates coming soon. I'll still be passively contributing and helping with development.
 
 ---
 
-#### ✨ My hobbies include:
+#### 🔆 Areas of interest:
 - Web automation R&D
-- Sysadmin & IT
-- Ethical hacking, VAPT, & lateral movement (red teaming)
-- RE & binary analysis, A64
-- Cloud architecture & deployment (AWS IaC)
-- Crypto mining
-- Linux ❤️
+- Working on a Proxmox homelab
+- RE binary analysis & JS deobfuscation
+- Network security & lateral movement
+- Breaking things
+- Linux & android ❤️
 
 ---
 
-#### 💻 Skills
+#### 💻 Background
 
-<img src="https://skillicons.dev/icons?i=python,qt,powershell,bash,go,c,cpp,java,sqlite,opencv,js,css,html,ai,figma,aws,terraform,docker,git,github,gitlab,heroku,cloudflare,firebase,spring,rabbitmq,postman" />
-
-
-#### 🔨 Workspace
-
-<img src="https://skillicons.dev/icons?i=arch,debian,ubuntu,kali,linux,raspberrypi,vim,neovim,idea,vscode,visualstudio" />
+<img src="https://skillicons.dev/icons?i=python,qt,go,c,cpp,java,powershell,bash,sqlite,opencv,js,css,html,ai,figma,aws,terraform,docker,git,github,gitlab,heroku,cloudflare,firebase" />
 
 ---
 
@@ -49,14 +47,14 @@
 </sub>
 
 <sub>
-I won't be able to respond to emails for some time.
+I have a medical condition that makes me sick very frequently. If I miss your email, please understand that this isn't intentional.
 </sub>
 
 <hr width=50>
 
 #### ⚡ Donate
 
-Keep me and my work alive!
+If my work has helped you, donations are welcome ❤️
 
 <a href="https://github.com/sponsors/daijro" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA">
@@ -73,3 +71,6 @@ Keep me and my work alive!
 <a href="https://www.bitcoinqrcodemaker.com/pay/?type=2&style=monero&address=4B9QaXYesx2ep4PkMuXrR31uMEzNwMqGyKw5sDTyg6ff5PSCXjSULYAP3Bk2TWyVvcRkv11wRyj7JXbUaBvAmXNWBCt2xxf" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Monero-4F44D6?style=for-the-badge&logo=monero&logoColor=white">
 </a>
+<br><sub>
+(Of course, I don't require or expect donations to continue my work)
+</sub>
