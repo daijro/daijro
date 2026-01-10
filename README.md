@@ -21,7 +21,7 @@ The project is in great hands with the team at [Clover Labs](https://cloverlabs.
 
 ---
 
-#### 🔆 Areas of interest:
+### 🔆 Areas of interest:
 - Web automation R&D
 - Working on a Proxmox homelab
 - RE binary analysis & JS deobfuscation
@@ -31,13 +31,13 @@ The project is in great hands with the team at [Clover Labs](https://cloverlabs.
 
 ---
 
-#### 💻 Background
+### 💻 Background
 
 <img src="https://skillicons.dev/icons?i=python,qt,go,c,cpp,java,powershell,bash,sqlite,opencv,js,css,html,ai,figma,aws,terraform,docker,git,github,gitlab,heroku,cloudflare,firebase" />
 
 ---
 
-#### 👤 Contact
+### 👤 Contact
 
 <div style="margin-bottom: 0;">
 📨 Email: <a href="mailto:daijro.dev@gmail.com">daijro.dev@gmail.com</a>
