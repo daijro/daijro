@@ -26,7 +26,7 @@ The project is in great hands with the team at [Clover Labs](https://cloverlabs.
 - Anti-tracking data science
 - Win32/PE & JS reversing
 - Proxmox homelab
-- Linux & Android ❤️
+- Linux & android ❤️
 
 ---
 
