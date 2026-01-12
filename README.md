@@ -23,11 +23,10 @@ The project is in great hands with the team at [Clover Labs](https://cloverlabs.
 
 ### 🔆 Areas of interest
 - Web automation R&D
-- Working on a Proxmox homelab
-- Win32/PE & JS reversing
-- Network security
 - Anti-tracking data science
-- Linux & android ❤️
+- Win32/PE & JS reversing
+- Proxmox homelab
+- Linux & Android ❤️
 
 ---
 
