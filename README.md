@@ -39,8 +39,6 @@
 <tr><td><b>Code</b></td><td><img src="https://go-skill-icons.vercel.app/api/icons?i=python,go,c,cpp,java,powershell,bash,opencv,chromedevtools,playwright,qt,ts,html,svelte,sass" /></td></tr>
 </table>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=daijro&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&disable_animations=true&hide_title=true" />
-
 ---
 
 ### 👤 Contact
