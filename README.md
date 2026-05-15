@@ -11,13 +11,12 @@
 ---
 
 > [!warning]
-> **Hello! I had a health situation last year and was not able to continue my work for a while. As a result, my projects are pretty outdated and may not work as expected. Updates are planned, but activity will be slow. Thank you for all the support. ❤️**
-
-## Camoufox maintenance status
-
-**I've decided to step down as primary maintainer of Camoufox after some time away.**
-
-The project is in great hands with the team at [Clover Labs](https://cloverlabs.ai), and you can expect new updates coming soon. I'll still be passively contributing and helping with development.
+> 
+> ## Camoufox maintenance status
+>
+> **I've decided to step down as primary maintainer of Camoufox after some time away.**
+>
+> The project is in great hands with the team at [Clover Labs](https://cloverlabs.ai), and you can expect new updates coming soon. I'll still be passively contributing and helping with development.
 
 ---
 
