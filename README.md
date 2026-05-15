@@ -35,13 +35,10 @@ The project is in great hands with the team at [Clover Labs](https://cloverlabs.
 
 ### 💻 Background
 
-#### Stack
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=aws,cloudflare,workers,firebase,terraform,docker,podman,githubactions,gitlab,qemu,vmwareworkstation,nginx,postgres,sqlite,git" />
-
-#### Code
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,go,c,cpp,java,powershell,bash,opencv,chromedevtools,playwright,qt,ts,html,svelte,sass" />
+<table cellpadding="4" cellspacing="0">
+<tr><td><b>Stack</b></td><td><img src="https://go-skill-icons.vercel.app/api/icons?i=aws,cloudflare,workers,firebase,terraform,docker,podman,githubactions,gitlab,qemu,vmwareworkstation,nginx,postgres,sqlite,git" /></td></tr>
+<tr><td><b>Code</b></td><td><img src="https://go-skill-icons.vercel.app/api/icons?i=python,go,c,cpp,java,powershell,bash,opencv,chromedevtools,playwright,qt,ts,html,svelte,sass" /></td></tr>
+</table>
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=daijro&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&disable_animations=true&hide_title=true" />
 
@@ -77,7 +74,7 @@ If my work has helped you, donations are welcome ❤️
 </a>
 
 <details>
-<summary>See crypto addresses</summary>
+<summary><code>See crypto addresses</code></summary>
 
 <table cellpadding="2" cellspacing="0">
 <tr><td>BTC</td><td><code>3L39ETRVhECuhMs4u3uJdWXCNhX2meyoPc</code></td></tr>
