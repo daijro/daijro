@@ -1,6 +1,6 @@
 <p align="center">
     <h3 align="center">Hi there 👋</h3>
-    <p align="center">I'm daijro, a 19 year old R&D software engineer with an interest in web security and privacy.</p>
+    <p align="center">I'm daijro, a 20 year old R&D software engineer with an interest in web security and privacy.</p>
     <p align="center">
         <img alt="Stars" src="https://img.shields.io/github/stars/daijro?color=4caf50&style=for-the-badge">
         <img alt="Downloads" src="https://img.shields.io/github/followers/daijro?color=0f80c1&style=for-the-badge">
@@ -22,17 +22,28 @@ The project is in great hands with the team at [Clover Labs](https://cloverlabs.
 ---
 
 ### 🔆 Areas of interest
+
 - Web automation R&D
 - Anti-tracking data science
 - Win32/PE & JS reversing
 - Proxmox homelab
 - Linux & android ❤️
 
+![icons](https://go-skill-icons.vercel.app/api/icons?i=arch,android,proxmox)
+
 ---
 
 ### 💻 Background
 
-<img src="https://skillicons.dev/icons?i=python,qt,go,c,cpp,java,powershell,bash,sqlite,opencv,js,css,html,ai,figma,aws,terraform,docker,git,github,gitlab,heroku,cloudflare,firebase" />
+#### Stack
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=aws,cloudflare,workers,firebase,terraform,docker,podman,githubactions,gitlab,qemu,vmwareworkstation,nginx,postgres,sqlite,git" />
+
+#### Code
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,go,c,cpp,java,powershell,bash,opencv,chromedevtools,playwright,qt,ts,html,svelte,sass" />
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=daijro&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&disable_animations=true&hide_title=true" />
 
 ---
 
@@ -64,12 +75,19 @@ If my work has helped you, donations are welcome ❤️
 <a href="https://venmo.com/daijro" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Venmo-008CFF?style=for-the-badge&logo=v&logoColor=white">
 </a>
-<a href="https://www.bitcoinqrcodemaker.com/pay/?type=2&style=bitcoin&address=1G9W9zBAyDmN8wE3LR5JjVbU6LnXBHLKF8" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Bitcoin-E67132?style=for-the-badge&logo=bitcoin&logoColor=white">
-</a>
-<a href="https://www.bitcoinqrcodemaker.com/pay/?type=2&style=monero&address=4B9QaXYesx2ep4PkMuXrR31uMEzNwMqGyKw5sDTyg6ff5PSCXjSULYAP3Bk2TWyVvcRkv11wRyj7JXbUaBvAmXNWBCt2xxf" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Monero-4F44D6?style=for-the-badge&logo=monero&logoColor=white">
-</a>
-<br><sub>
+
+<details>
+<summary>See crypto addresses</summary>
+
+<table cellpadding="2" cellspacing="0">
+<tr><td>BTC</td><td><code>3L39ETRVhECuhMs4u3uJdWXCNhX2meyoPc</code></td></tr>
+<tr><td>XMR</td><td><code>83eTdfEi4A58aGK93RF4HSMGzzkxLQjMif9LA2M1fhZM45fdcep7eTz4pdm1QaRzGdY8dNSp6HHkQYV2SsYfwxR9QMquFB1</code></td></tr>
+<tr><td>SOL</td><td><code>2UdJSGQpDxfKTD11E4DLEUAxc87CTYwRVQTbkqeU9hkc</code></td></tr>
+<tr><td>USDT-TRC20</td><td><code>TNbzg5ik44hbauvDdbWnh334uTpUeNVJVY</code></td></tr>
+</table>
+
+</details>
+
+<sub>
 (Of course, I don't require or expect donations to continue my work)
 </sub>
